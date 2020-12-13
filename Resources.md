@@ -96,14 +96,14 @@ https://mega.nz/folder/E5o0HYQa#1hulnBtqBTyjjR2tPnKPfg
 🔳 *Courses List  -:-*
 
 #### 1.  Project Management
-2.  Digital Marketing
-3.  Data Analyst
-4.  Graphics Design
-5.  Financial Analyst
-6.  Customer Service
-7.  Sales Representative
-8.  Software Development
-9.  I.T.  Administrator.etc
+#### 2.  Digital Marketing
+#### 3.  Data Analyst
+#### 4.  Graphics Design
+#### 5.  Financial Analyst
+#### 6.  Customer Service
+#### 7.  Sales Representative
+#### 8.  Software Development
+#### 9.  I.T.  Administrator.etc
 
 ✅ **100% Free Registration** ✅
        
