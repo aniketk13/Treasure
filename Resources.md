@@ -95,7 +95,7 @@ https://mega.nz/folder/E5o0HYQa#1hulnBtqBTyjjR2tPnKPfg
 
 🔳 *Courses List  -:-*
 
-1.  Project Management
+#### 1.  Project Management
 2.  Digital Marketing
 3.  Data Analyst
 4.  Graphics Design
