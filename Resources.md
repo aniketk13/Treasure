@@ -16,7 +16,9 @@ Have uploaded everything asked..
 Go through these links...***
 
 https://drive.google.com/folderview?id=1LO8mwbkeOUGz4oQgGR6gIUxRfIxHaDAL
+
 https://drive.google.com/folderview?id=1JTfjQXbxCbyX8qswEXU4_eKg7k9rBT0G
+
 https://drive.google.com/folderview?id=1po-AJW6FBTHRirrxycfXZ-2EQ8Cu2S79
 
 ---------------------------------------------------------------------------------------------------------
@@ -54,6 +56,7 @@ https://drive.google.com/drive/mobile/folders/1g1RoiOX8Rwwq71OH59hwBl26JbX0mDd4
 
 ### GATE CSE - Made Easy Test Series
 https://drive.google.com/folderview?id=1ajZ2Tm4dVa3to-qOsEQHtSUooECSMt0k
+
 https://drive.google.com/folderview?id=18og6npAuCG7PNL2kkvc0AS3AkdBBqy7k
 
 ----------------------------------------------------------------------------------------------------------------
@@ -119,30 +122,34 @@ https://blogs.microsoft.com/blog/2020/06/30/microsoft-launches-initiative-to-hel
 https://www.youtube.com/playlist?list=PLBG_hRMQjgpxDsGFf5HTN4pqh3DT0CWyI
 
 ---------------------------------------------------------------------------------------------------------------------------
-
-https://mega.nz/folder/l9UAkRoI#aSejCccjaByQ4OcD10rXAw
 ### 😍💥DATA STRUCTURES USING JAVA 💥😍
+https://mega.nz/folder/l9UAkRoI#aSejCccjaByQ4OcD10rXAw
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 ### Some more good leetcode Solutions
 https://www.youtube.com/playlist?list=PLjaO05BrsbIP4_rYhYjB95q-IpxoIXmlm
+
 https://www.youtube.com/playlist?list=PLl0KD3g-oDOHElCF7S7q6CRGz1qG8vQkS
+
 https://www.youtube.com/playlist?list=PLl0KD3g-oDOHMeRVWBqhaPnOisb5VPBlC
 
 -----------------------------------------------------------------------------------------------------------------------
 
 ### LEETCODE SOLUTIONS FOR LEARNERS 🔥( make a habit 🙂 to solve daily at least 20 questions)
 https://www.youtube.com/playlist?list=PLxhNaYPwn9T6s7pnhRs_193ZCO61VNE4_
+
 https://www.youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-
+
 https://www.youtube.com/playlist?list=PL5b07qlmA3P6UWAVm6rnJXpWAB3Vnj59B
+
 https://www.youtube.com/playlist?list=PLi9RQVmJD2fYXgBAUfaN5MXgYPUTbzqeb
+
 https://www.youtube.com/c/KnowledgeCenter
 
 --------------------------------------------------------------------------------------------------------------------------------
-
-https://drive.google.com/file/d/1DkNYB5HzeJ2Dhm6mXynQjC4Rept54Qln/view
 ### One more Best Cool DBMS CHEATSHEET / PDF  to learn DBMS quick 🔥🔥
+https://drive.google.com/file/d/1DkNYB5HzeJ2Dhm6mXynQjC4Rept54Qln/view
 
 -------------------------------------------------------------------------------------------------------------------------
 
