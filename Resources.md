@@ -22,22 +22,22 @@ https://drive.google.com/folderview?id=1po-AJW6FBTHRirrxycfXZ-2EQ8Cu2S79
 ---------------------------------------------------------------------------------------------------------
 
 https://drive.google.com/folderview?id=1FHlSfLimBlOZtCNnNQ3LwHjuY6ShCIeb
-**AlgoExpert**
+### AlgoExpert
 
 https://drive.google.com/folderview?id=1fLBfRBNIGA_NstRpNUkvd3MVvp-1j71J
-**AWS**
+### AWS
 
 https://drive.google.com/folderview?id=18Q70Zri7qEhOkJCvwpEr3ojT6crG5gE7
-**Android+IOS**
+### Android+IOS
 
 https://drive.google.com/folderview?id=1DD9mSGzpVEUfYlOvyy1p3DeSGzahmEZK
-**LinkedIn Courses(Lynda)**
+### LinkedIn Courses(Lynda)
 
 https://drive.google.com/folderview?id=1GjtPFL7cAWvZ3KT0mNKJO1e5qIAAoeW5
-**Web Development**
+### Web Development
 
 https://drive.google.com/folderview?id=1qLb9yN2kSB89JNNZLG2HDD-7JpDmnZ1B
-**40+ Udacity Nanodegree..**
+### 40+ Udacity Nanodegree..
 
 --------------------------------------------------------------------------------------------------------
 
@@ -109,7 +109,7 @@ https://mega.nz/folder/E5o0HYQa#1hulnBtqBTyjjR2tPnKPfg
        
 ### ☑️*Certificate to be issued on completion*☑️.
 
-🔳 **Deadline: Ongoing**
+### 🔳 *Deadline: Ongoing*
 
 ***🤍Blog with all details -:- 🤍***
 
