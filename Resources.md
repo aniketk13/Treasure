@@ -105,9 +105,9 @@ https://mega.nz/folder/E5o0HYQa#1hulnBtqBTyjjR2tPnKPfg
 #### 8.  Software Development
 #### 9.  I.T.  Administrator.etc
 
-✅ **100% Free Registration** ✅
+### ✅ *100% Free Registration* ✅
        
-☑️**Certificate to be issued on completion**☑️.
+### ☑️*Certificate to be issued on completion*☑️.
 
 🔳 **Deadline: Ongoing**
 
